@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-Light.woff2') format('woff2'),
+    url('./woff/Geologica-Light.woff') format('woff');
+    font-weight: 300;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-Regular.woff2') format('woff2'),
+    url('./woff/Geologica-Regular.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-Medium.woff2') format('woff2'),
+    url('./woff/Geologica-Medium.woff') format('woff');
+    font-weight: 500;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-SemiBold.woff2') format('woff2'),
+    url('./woff/Geologica-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-Bold.woff2') format('woff2'),
+    url('./woff/Geologica-Bold.woff') format('woff');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geologica';
+    src: url('./woff2/Geologica-ExtraBold.woff2') format('woff2'),
+    url('./woff/Geologica-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-display: swap;
+    font-style: normal;
+}
